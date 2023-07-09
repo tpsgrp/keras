@@ -11,6 +11,6 @@ Pillow==8.2.0
 pytest==6.2.4
 pyux==0.0.6
 scikit_learn==0.24.2
-scipy==1.7.0
+scipy==1.8.0
 six==1.16.0
 tensorflow==2.5.0
